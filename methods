@@ -1,0 +1,17 @@
+add() --- list.add(30);       // idhu kudutha values will add in the list
+get() --- System.out.println(list.get(1)); // will get the element we need like endhu venum oh adhu mattum eduthu tharum.
+set() --- Replace value (list.set(1,50));
+Remove() --- list.remove(1);
+size() --- System.out.print(list.size());
+//
+//Questions:
+Running sum --- prefix sum
+Prefix array --- prefix sum
+Rangequery --- prefix sum
+Equillibrium index --- prefix sum
+Pivot index ---prefix sum
+Count subarray sum k --- prefix HashMap
+Reverse array list --- Collections
+Sort Arraylist -- Collections
+Mergearraylist --- addall();
+Search arraylist --- Contains();
