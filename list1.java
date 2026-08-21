@@ -21,3 +21,5 @@ public class list1 {
         list.set( 0, 50);
         list.remove(2);
         list.size();
+    }
+}
