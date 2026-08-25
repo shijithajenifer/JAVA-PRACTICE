@@ -12,7 +12,7 @@ public class SecondLargest {
         for(int i=1;i<n;i++){
             if(arr[i]>max){
                 secondmax=max;
-                max=arr[i];
+                max=arr[i];               
             }
         }
         System.out.println(secondmax);
