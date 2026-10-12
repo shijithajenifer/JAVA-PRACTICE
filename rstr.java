@@ -1,0 +1,12 @@
+import java.util.*;
+public class rstr {
+    public static void main(String[] args){
+        Scanner scan=new Scanner(System.in);
+        String s1=scan.nextLine();
+        char[] ch=s1.toCharArray();
+        for(int i=s1.length()-1;i>=0;i--){
+            System.out.print(ch[i]);
+        }
+        scan.close();
+    }
+}
